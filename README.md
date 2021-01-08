@@ -1,3 +1,3 @@
-# guvi-express-Rest-API-07/07
+# basic-express-rest-apis
 
 I have built a basic express Rest APIs to perform GET, POST, PUT and DELETE operations.
